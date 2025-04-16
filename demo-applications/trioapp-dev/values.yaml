@@ -9,7 +9,7 @@ buslog:
         steps:
           - setWeight: 20
           - pause:
-              duration: 5s
+              duration: 4s
           - setWeight: 100
 ctrlr:
   image:
